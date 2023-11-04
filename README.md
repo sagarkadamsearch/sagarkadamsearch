@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sagar Balasaheb Kadam</h1>
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
 
+###
+
+<h2 align="center">👩‍💻  About Me</h3>
+
+###
+
+<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif"  />
+
+###
+
+<h6 align="left"><br>- 🏠 I'm from Kurduwadi, Maharashtra.<br>- 📚 Currently learning Full Stack Web Development.<br>
+  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkadamsearch&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkadamsearch" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
